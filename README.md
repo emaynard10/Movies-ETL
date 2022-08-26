@@ -38,7 +38,7 @@ The fUnction continues with a try/except block to find errors while extracting t
 The ETL process is important for ensuring the good data is preserved as much as possible while bad data is eliminated, in the data cleaning process the analyst much choose which data to keep and which data does not add to the analysis. The data needs to be transformed to a more useable format and the three dataframes are merged at the end for comparisons. Refactoring the code and creatign functions improves the process
 
 ### Contact info
-(EMAIL)[emaynard10@gmail.com]
+[EMAIL](emaynard10@gmail.com)
 
 
 
